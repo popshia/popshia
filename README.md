@@ -1,5 +1,16 @@
-### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=popshia&show_icons=true&theme=gruvbox)
+```python
+class SoftwareEngineer:
+    def __init__(self):
+        self.name = "Noah Lin"
+        self.role = "Software Engineer"
+        self.company = "C-Link"
+        self.language_spoken = ["zh_TW", "en_US"]
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+me = SoftwareEngineer()
+me.say_hi()
+```
 <!--
 **popshia/popshia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
