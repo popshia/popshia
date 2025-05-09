@@ -2,7 +2,7 @@
 class AboutMe:
     def __init__(self):
         self.name = "Noah Lin"
-        self.role = "Software Engineer"
+        self.role = "Software Engineer， UI/UX Designer"
         self.company = "C-Link"
         self.language_spoken = ["zh_TW", "en_US"]
     def say_hi(self):
